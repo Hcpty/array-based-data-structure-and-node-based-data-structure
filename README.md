@@ -1,5 +1,5 @@
 # Readme
-A comparison between Array-based Data Structure and Node-based Data Structure.
+A comparison between array-based data structure and node-based data structure.
 
 ### Array-based Data Structure vs Node-based Data Structure
 
