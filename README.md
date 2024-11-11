@@ -10,4 +10,4 @@ A comparison between array-based data structure and node-based data structure.
 - 最大的短处：只支持链式访问。
 
 ### Credits
-- Data Structures and Algorithm Analysis in Java, Third Edition
+- Data Structures and Algorithm Analysis in Java, Third Edition - Mark Allen Weiss
