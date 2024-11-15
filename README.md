@@ -1,5 +1,4 @@
-# Readme
-A note about Array-Based Data Structures and Node-Based Data Structures.
+# Array-Based Data Structures and Node-Based Data Structures
 
 ## Array-Based Data Structures and Node-Based Data Structures
 - Array-Based Data Structures最大的长处是能以O(1)的时间复杂度访问元素，最大的短处是需要使用连续的内存空间。
